@@ -1,5 +1,5 @@
-#My first Git Repo
+# My first Git Repo
 
-##My second commit...
+## My second commit...
 
-###My third commit 
+### My third commit 
